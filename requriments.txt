@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+opencv-python-headless==4.7.0.72
+pandas==1.5.3
+ultralytics==8.0.20
+torch==2.0.1
