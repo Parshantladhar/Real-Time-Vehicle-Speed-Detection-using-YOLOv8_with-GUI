@@ -1,8 +1,11 @@
 
-https://github.com/Parshantladhar/Real-Time-Vehicle-Speed-Detection-using-YOLOv8_with-GUI/assets/120705862/5432f012-8539-4878-a204-bc99d01c9b77
 # Real-Time Vehicle Speed Detection
 
 This project is a real-time vehicle speed detection application using the YOLOv8 model. The application features a graphical user interface (GUI) built with PyQt5, which allows users to process video files or use real-time detection via a webcam. The application detects vehicles, tracks them, and calculates their speeds.
+
+
+https://github.com/Parshantladhar/Real-Time-Vehicle-Speed-Detection-using-YOLOv8_with-GUI/assets/120705862/35318e48-25d5-47ce-980d-bbc95b50cdb5
+
 
 ## Features
 
